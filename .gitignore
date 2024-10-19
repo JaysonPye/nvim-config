@@ -6,3 +6,8 @@ debug
 foo.*
 *.log
 data
+*.swp
+*.swo
+*.bak
+*.tmp
+
